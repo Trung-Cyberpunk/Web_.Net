@@ -1,0 +1,69 @@
+﻿@model _19T1021256.Web.Models.EmployeeSearchOutput
+
+
+@{ Layout = null; }
+
+<p>Có <strong> @string.Format("{0:N0}", Model.RowCount) </strong>Nhân viên trong tổng số <strong> @string.Format("{0:N0}", Model.PageCount) </strong>Trang</p>
+<table style="margin-bottom:0;" class="table table-bordered table-hover">
+    <thead>
+        <tr class="bg-primary">
+            <th>Ảnh</th>
+            <th>Họ</th>
+            <th>Tên</th>
+            <th>Ngày sinh</th>
+            <th>Email</th>
+            <th>Mật khẩu</th>
+            <th>Ghi chú</th>
+            <th>
+
+            </th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var item in @Model.Data)
+        {   // Danh sách các supplier
+            <tr>
+                <td><img src="@item.Photo" class="media-object" style="width:150px"></td>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.BirthDate</td>
+                <td>@item.Email</td>
+                <td>@item.Password</td>
+                <td>@item.Notes</td>
+                <td>
+                    <a href="~/Employee/Edit/@item.EmployeeID" class="btn btn-sm btn-success">
+                        <i class="glyphicon glyphicon-edit"></i>
+
+                    </a>
+                    <a href="~/Employee/Delete/@item.EmployeeID" class="btn btn-sm btn-danger">
+                        <i class="glyphicon glyphicon-trash"></i>
+                    </a>
+                    @*<a href="~/Employee/Edit/@item.EmployeeID" class="btn btn-sm btn-primary">
+                        <i class="glyphicon glyphicon-edit"></i>
+
+                    </a>
+                    <a href="~/Employee/Delete/@item.EmployeeID" class="btn btn-sm btn-danger">
+                        <i class="glyphicon glyphicon-trash"></i>
+                    </a>*@
+                </td>
+            </tr>
+}
+
+    </tbody>
+</table>
+<div class="text-center">
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.PageCount; i++)
+        {
+            if (i == Model.Page)
+            {
+                <li class="active"><a href="#">@i</a></li>
+ }
+            else
+            {
+                <li><a href="javascript:;" onclick="doSearch(@i)">@i</a></li>
+}
+        }
+    </ul>
+</div>

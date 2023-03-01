@@ -1,0 +1,12 @@
+D:\lap trinh web\19T1021256\19T1021256.DomainModels\bin\Debug\19T1021256.DomainModels.dll
+D:\lap trinh web\19T1021256\19T1021256.DomainModels\bin\Debug\19T1021256.DomainModels.pdb
+D:\lap trinh web\19T1021256\19T1021256.DomainModels\obj\Debug\19T1021256.DomainModels.csproj.AssemblyReference.cache
+D:\lap trinh web\19T1021256\19T1021256.DomainModels\obj\Debug\19T1021256.DomainModels.csproj.CoreCompileInputs.cache
+D:\lap trinh web\19T1021256\19T1021256.DomainModels\obj\Debug\19T1021256.DomainModels.dll
+D:\lap trinh web\19T1021256\19T1021256.DomainModels\obj\Debug\19T1021256.DomainModels.pdb
+D:\lập trình web\19T1021256\19T1021256\19T1021256.DomainModels\bin\Debug\19T1021256.DomainModels.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.DomainModels\bin\Debug\19T1021256.DomainModels.pdb
+D:\lập trình web\19T1021256\19T1021256\19T1021256.DomainModels\obj\Debug\19T1021256.DomainModels.csproj.AssemblyReference.cache
+D:\lập trình web\19T1021256\19T1021256\19T1021256.DomainModels\obj\Debug\19T1021256.DomainModels.csproj.CoreCompileInputs.cache
+D:\lập trình web\19T1021256\19T1021256\19T1021256.DomainModels\obj\Debug\19T1021256.DomainModels.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.DomainModels\obj\Debug\19T1021256.DomainModels.pdb

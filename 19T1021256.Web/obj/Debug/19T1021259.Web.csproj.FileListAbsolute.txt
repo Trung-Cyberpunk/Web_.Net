@@ -1,0 +1,124 @@
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.Web.dll.config
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.Web.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.Web.pdb
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\csc.exe
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\csc.exe.config
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\csc.rsp
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\csi.exe
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\csi.rsp
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.AppContext.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\vbc.exe
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\vbc.exe.config
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\vbc.rsp
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\VBCSCompiler.exe
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.BusinessLayers.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.Datalayers.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.DomainModels.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\Antlr3.Runtime.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\Newtonsoft.Json.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Helpers.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Mvc.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Optimization.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Razor.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.Deployment.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.Razor.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\WebGrease.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.BusinessLayers.pdb
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.Datalayers.pdb
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.DomainModels.pdb
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Helpers.xml
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Mvc.xml
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Optimization.xml
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Razor.xml
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.xml
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.Deployment.xml
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.Razor.xml
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\Newtonsoft.Json.xml
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\Antlr3.Runtime.pdb
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\obj\Debug\19T1021259.Web.csproj.AssemblyReference.cache
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\obj\Debug\19T1021259.Web.csproj.CoreCompileInputs.cache
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\obj\Debug\19T1021259.Web.csproj.CopyComplete
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\obj\Debug\19T1021256.Web.dll
+D:\lập trình web\19T1021256\19T1021256\19T1021256.Web\obj\Debug\19T1021256.Web.pdb
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.Web.dll.config
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.Web.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.Web.pdb
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\csc.exe
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\csc.exe.config
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\csc.rsp
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\csi.exe
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\csi.rsp
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.AppContext.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\vbc.exe
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\vbc.exe.config
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\vbc.rsp
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.BusinessLayers.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.Datalayers.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.DomainModels.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\Antlr3.Runtime.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\Newtonsoft.Json.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Helpers.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Mvc.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Optimization.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Razor.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\WebGrease.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.BusinessLayers.pdb
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.Datalayers.pdb
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\19T1021256.DomainModels.pdb
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Helpers.xml
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Mvc.xml
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Optimization.xml
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.Razor.xml
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.xml
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\Newtonsoft.Json.xml
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\Antlr3.Runtime.pdb
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\obj\Debug\19T1021259.Web.csproj.AssemblyReference.cache
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\obj\Debug\19T1021259.Web.csproj.CoreCompileInputs.cache
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\obj\Debug\19T1021259.Web.csproj.CopyComplete
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\obj\Debug\19T1021256.Web.dll
+C:\Users\trung\OneDrive\Máy tính\19T1021256\19T1021256\19T1021256.Web\obj\Debug\19T1021256.Web.pdb
